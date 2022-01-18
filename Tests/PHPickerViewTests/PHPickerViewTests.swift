@@ -6,6 +6,6 @@ final class PHPickerTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(PHPicker().text, "Hello, World!")
+        // XCTAssertEqual(PHPicker().text, "Hello, World!")
     }
 }
