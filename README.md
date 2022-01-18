@@ -1,3 +1,3 @@
-# PHPicker
+# PHPickerView
 
-A description of this package.
+A SwiftUI version of PHPickerViewController.
